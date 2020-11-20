@@ -5,6 +5,8 @@
 
 ## 文章
 
+[主页](https://nathanll.cn/blog-article/#/)
+
 ## javascript
 
 [Realms](https://nathanll.cn/blog-article/#/javascript/Realms)
